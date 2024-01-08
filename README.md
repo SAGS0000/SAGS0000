@@ -3,7 +3,7 @@
 <h3 align='center'> A code enthusiast and front-end web developer, on a mission to make the web a more delightful place.</h3>
 <h2 align='center'>
   🌟
-    <a href='chrnfrd.vercel.app'>
+    <a href='https://chrnfrd.vercel.app' target='_blank'>
       chrnfrd
     </a>
   🌟
