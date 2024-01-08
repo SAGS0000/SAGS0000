@@ -1,16 +1,26 @@
-### Hi there 👋
+# 
+<h1 align='center'>Hey there! 👋 I'm Joshua</h1>
+<h3 align='center'> A code enthusiast and front-end web developer, on a mission to make the web a more delightful place.</h3>
+<h2 align='center'>
+  🌟
+    <a href='chrnfrd.vercel.app'>
+      chrnfrd
+    </a>
+  🌟
+  <br><br></h2>
 
-<!--
-**SAGS0000/SAGS0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌈 About Me
 
-Here are some ideas to get you started:
+- 🚀 Currently looking for a front-end website developer job.
+- 👩‍💻 Graduated with flying colors in Computer Science.
+- 💡 Always hungry to learn and stay on the cutting edge of web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+
+- 🌟 [LinkedIn](https://www.linkedin.com/in/joshua-saguit-216b4a240/) 
+
+## ✉️ Reach Out
+
+Drop me a magical email at joshuasaguit@gmail.com. Whether it's coding spells or just saying hi, I'm all ears!
+
+Let's craft some digital wonders together! 🚀✨
